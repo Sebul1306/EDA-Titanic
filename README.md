@@ -18,7 +18,7 @@ Tujuan utama dari proyek ini adalah untuk mengeksplorasi dan memahami pola-pola 
 ## 📊 Insight Utama  
 - Sebagian besar penumpang merupakan orang dewasa.  
 - Jumlah penumpang laki-laki lebih banyak dibandingkan perempuan.  
-- Penumpang yang selamat lebih banyak (270 orang) dibandingkan yang tidak selamat (230 orang).  
+- Penumpang yang selamat lebih banyak dibandingkan yang tidak selamat. 
 - Jenis kelamin memiliki pengaruh signifikan terhadap tingkat keselamatan; penumpang perempuan memiliki kemungkinan selamat yang lebih tinggi.  
 
 
@@ -35,9 +35,10 @@ Tujuan utama dari proyek ini adalah untuk mengeksplorasi dan memahami pola-pola 
 
 ## 📁 Struktur Proyek  
 ```
-├── Titanic_EDA.ipynb              # Notebook analisis EDA
-├── TITANIC EDA                    # File presentasi (slide)
-├── titanic.xls                    # Dataset mentah
+├── Hasil Analisis Titanic.ipynb   # Notebook analisis EDA
+├── EDA Titanic                    # File presentasi (slide)
+├── Hasil Analisis Titanic.xlsx    # Dataset sudah diperbaiki
+└── Data Titanic.xlsx              # Dataset mentah
 └── README.md                      # Dokumentasi proyek ini
 ```
 
@@ -55,14 +56,14 @@ Beberapa visualisasi yang dibuat dalam proyek ini antara lain:
 
 ## 📄 Cara Mengakses Proyek  
 Kamu dapat melihat hasil lengkap dari proyek ini melalui tautan berikut:  
-- 📘 [Hasil Tugas Titanic](https://github.com/Sebul1306/EDA-Titanic/blob/main/Hasil%20Tugas%20Titanic.ipynb)(#)  
-- 📽️ [EDA Titanic.pdf](#)  
+- 📘 [Hasil Tugas Titanic](https://github.com/Sebul1306/EDA-Titanic/blob/main/Hasil%20Tugas%20Titanic.ipynb) 
+- 📽️ [PPT EDA Titanic](https://github.com/Sebul1306/EDA-Titanic/blob/main/EDA%20Titanic.pdf)  
 
 ---
 
 ## 🙋‍♂️ Tentang Saya  
 Halo! Saya **Hasbul Wafi**, mahasiswa Komputerisasi Akuntansi yang sedang mengembangkan keterampilan di bidang data analytics. Proyek ini merupakan bagian dari pembelajaran saya dalam program Digital Skill Fair 38 bersama dibimbing.id.  
-Mari terhubung di [LinkedIn](#)!
+Mari terhubung di [LinkedIn](https://www.linkedin.com/in/hasbulwafi/)!
 
 ---
 
