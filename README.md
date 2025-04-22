@@ -1,7 +1,3 @@
-Berikut adalah versi *README* untuk proyek EDA Titanic yang sudah disesuaikan dengan bahasa yang lebih natural dan profesional, serta tambahan elemen yang memperkuat isi. Kamu bisa langsung menyalin ini untuk digunakan di GitHub:
-
----
-
 # 🛳️ Titanic EDA Project
 
 ## 📌 Deskripsi Umum  
