@@ -55,7 +55,7 @@ Beberapa visualisasi yang dibuat dalam proyek ini antara lain:
 
 ## 📄 Cara Mengakses Proyek  
 Kamu dapat melihat hasil lengkap dari proyek ini melalui tautan berikut:  
-- 📘 [Hasil Tugas Titanic.ipynb](#)  
+- 📘 [Hasil Tugas Titanic](https://github.com/Sebul1306/EDA-Titanic/blob/main/Hasil%20Tugas%20Titanic.ipynb)(#)  
 - 📽️ [EDA Titanic.pdf](#)  
 
 ---
