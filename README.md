@@ -1,25 +1,73 @@
-# EDA-Titanic
+Berikut adalah versi *README* untuk proyek EDA Titanic yang sudah disesuaikan dengan bahasa yang lebih natural dan profesional, serta tambahan elemen yang memperkuat isi. Kamu bisa langsung menyalin ini untuk digunakan di GitHub:
 
-##📘 Dataset Overview
-Dataset Titanic adalah salah satu dataset klasik dalam dunia data science. Dataset ini berisi informasi mengenai penumpang kapal Titanic yang tenggelam pada tahun 1912, termasuk status selamat atau tidaknya setiap penumpang, serta fitur-fitur demografis seperti usia, jenis kelamin, kelas tiket, dan lainnya.
+---
 
-##🗂️ Sumber data: Titanic Dataset – Kaggle
-##📅 Tahun kejadian: 1912
+# 🛳️ Titanic EDA Project
 
-##🎯 Goals of the Analysis
--Mengetahui faktor yang mempengaruhi keselamatan penumpang
--Analisis demografi penumpang yang selamat dan tidak selamat
--Distribusi umur, jenis kelamin, dan kelas sosial
+## 📌 Deskripsi Umum  
+Proyek ini merupakan studi analisis data eksploratif (*Exploratory Data Analysis / EDA*) menggunakan dataset terkenal Titanic. Proyek ini dibuat sebagai bagian dari program **Faculty of Data – Digital Skill Fair 38** yang diselenggarakan oleh [@dibimbing.id](https://dibimbing.id).  
 
-##🔍 Key Insights
-👥 Survival Rate by Gender
--Wanita memiliki peluang selamat jauh lebih tinggi dibandingkan pria
--Lebih dari 70% wanita berhasil selamat, sedangkan hanya sekitar 20% pria yang selamat
+Tujuan utama dari proyek ini adalah untuk mengeksplorasi dan memahami pola-pola dalam data yang berkaitan dengan faktor-faktor yang memengaruhi kemungkinan selamatnya penumpang dalam tragedi Titanic.
 
-💳 Survival Rate by Class
--Penumpang kelas 1 memiliki tingkat keselamatan tertinggi
--Penumpang kelas 3 memiliki jumlah korban terbanyak
+---
 
-👶 Age Distribution
--Anak-anak memiliki kemungkinan lebih besar untuk diselamatkan dibandingkan dewasa
--Mayoritas penumpang berusia antara 20–40 tahun
+## 🎯 Tujuan Proyek  
+- Melakukan eksplorasi terhadap dataset Titanic.  
+- Membersihkan dan mempersiapkan data (*data preprocessing*).  
+- Membuat visualisasi dari pola-pola penting dalam data.  
+- Menghasilkan insight yang bermakna terkait faktor-faktor yang memengaruhi tingkat keselamatan penumpang.  
+
+---
+
+## 📊 Insight Utama  
+- Sebagian besar penumpang merupakan orang dewasa.  
+- Jumlah penumpang laki-laki lebih banyak dibandingkan perempuan.  
+- Penumpang yang selamat lebih banyak (270 orang) dibandingkan yang tidak selamat (230 orang).  
+- Jenis kelamin memiliki pengaruh signifikan terhadap tingkat keselamatan; penumpang perempuan memiliki kemungkinan selamat yang lebih tinggi.  
+- Kelas kabin juga berperan: penumpang di kelas satu memiliki tingkat keselamatan yang lebih tinggi dibanding kelas dua dan tiga.
+
+---
+
+## 🛠️ Tools & Library yang Digunakan  
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
+
+## 📁 Struktur Proyek  
+```
+├── Titanic_EDA.ipynb              # Notebook analisis EDA
+├── TITANIC EDA                    # File presentasi (slide)
+├── titanic.xls                    # Dataset mentah
+└── README.md                      # Dokumentasi proyek ini
+```
+
+---
+
+## 📷 Contoh Visualisasi  
+Beberapa visualisasi yang dibuat dalam proyek ini antara lain:  
+- Distribusi umur penumpang  
+- Komposisi gender  
+- Perbandingan jumlah penumpang selamat vs tidak selamat  
+- Tingkat keselamatan berdasarkan gender  
+- Tingkat keselamatan berdasarkan kelas kabin  
+
+---
+
+## 📄 Cara Mengakses Proyek  
+Kamu dapat melihat hasil lengkap dari proyek ini melalui tautan berikut:  
+- 📘 [Jupyter Notebook - Titanic_EDA.ipynb](#)  
+- 📽️ [Slide Presentasi - TITANIC EDA](#)  
+
+---
+
+## 🙋‍♂️ Tentang Saya  
+Halo! Saya **Hasbul Wafi**, mahasiswa Komputerisasi Akuntansi yang sedang mengembangkan keterampilan di bidang data analytics. Proyek ini merupakan bagian dari pembelajaran saya dalam program Digital Skill Fair 38 bersama dibimbing.id.  
+Mari terhubung di [LinkedIn](#)!
+
+---
+
+Jika kamu ingin, saya juga bisa bantu untuk menyusun tampilan GitHub repository-nya agar lebih menarik. Mau sekalian?
