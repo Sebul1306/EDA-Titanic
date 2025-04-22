@@ -24,7 +24,7 @@ Tujuan utama dari proyek ini adalah untuk mengeksplorasi dan memahami pola-pola 
 - Jumlah penumpang laki-laki lebih banyak dibandingkan perempuan.  
 - Penumpang yang selamat lebih banyak (270 orang) dibandingkan yang tidak selamat (230 orang).  
 - Jenis kelamin memiliki pengaruh signifikan terhadap tingkat keselamatan; penumpang perempuan memiliki kemungkinan selamat yang lebih tinggi.  
-- Kelas kabin juga berperan: penumpang di kelas satu memiliki tingkat keselamatan yang lebih tinggi dibanding kelas dua dan tiga.
+
 
 ---
 
@@ -53,14 +53,14 @@ Beberapa visualisasi yang dibuat dalam proyek ini antara lain:
 - Komposisi gender  
 - Perbandingan jumlah penumpang selamat vs tidak selamat  
 - Tingkat keselamatan berdasarkan gender  
-- Tingkat keselamatan berdasarkan kelas kabin  
+
 
 ---
 
 ## 📄 Cara Mengakses Proyek  
 Kamu dapat melihat hasil lengkap dari proyek ini melalui tautan berikut:  
-- 📘 [Jupyter Notebook - Titanic_EDA.ipynb](#)  
-- 📽️ [Slide Presentasi - TITANIC EDA](#)  
+- 📘 [Hasil Tugas Titanic.ipynb](#)  
+- 📽️ [EDA Titanic.pdf](#)  
 
 ---
 
@@ -70,4 +70,3 @@ Mari terhubung di [LinkedIn](#)!
 
 ---
 
-Jika kamu ingin, saya juga bisa bantu untuk menyusun tampilan GitHub repository-nya agar lebih menarik. Mau sekalian?
