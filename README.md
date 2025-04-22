@@ -38,7 +38,7 @@ Tujuan utama dari proyek ini adalah untuk mengeksplorasi dan memahami pola-pola 
 ├── Hasil Analisis Titanic.ipynb   # Notebook analisis EDA
 ├── EDA Titanic                    # File presentasi (slide)
 ├── Hasil Analisis Titanic.xlsx    # Dataset sudah diperbaiki
-└── Data Titanic.xlsx              # Dataset mentah
+├── Data Titanic.xlsx              # Dataset mentah
 └── README.md                      # Dokumentasi proyek ini
 ```
 
